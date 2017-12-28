@@ -1,0 +1,5 @@
+pelican-plugins/*
+pelican-themes/*
+__pycache__/*
+pelican-plugins/
+pelican-themes/
