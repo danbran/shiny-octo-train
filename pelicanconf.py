@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'dan'
 SITENAME = 'shiny-python'
-SITEURL = ''
+SITEURL = 'https://danbran.github.io/shiny-octo-train'
 
 PATH = 'content'
 
@@ -24,6 +24,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('How to initialize pelican','http://nafiulis.me/making-a-static-blog-with-pelican.html'),
+         ('pelican 2','https://gist.github.com/JosefJezek/6053301'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
