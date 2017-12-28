@@ -12,11 +12,14 @@ This is the content of my super blog post.
 
 Publish with gh-pages:
 
-```python
-pelican content -o output -s pelicanconf.py```
+```shell
+$ pelican content -o output -s pelicanconf.py
+```
 
 ```shell
-ghp-import output```
-
+$ ghp-import output
 ```
-git push origin gh-pages```
+
+```shell
+$ git push origin gh-pages
+```
