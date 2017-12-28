@@ -1,7 +1,7 @@
 Title: code example 
 Date: 2017-12-27 12:00 
 Tags: thats, awesome 
-Category: test 
+Category: python 
 Slug: code-example
 Author: dan
 Summary: code example with python and pandas
